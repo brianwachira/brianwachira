@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### My name is Brian Wachira
 
-I specialize in Javascript and Typescript technologies ( React, React Native & Node Js)
+I specialize in Javascript and Typescript technologies ( React, React Native & Node JS)
 * 🌍  I am currently based in Nairobi, Kenya
 * 🔭 I am currently furnishing my css skills.
 * 👯 I look to collaborate on any interesting projects ( Fintech, ecommerce, Web3, etc ) 
