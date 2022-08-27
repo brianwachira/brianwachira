@@ -3,7 +3,7 @@
 
 I specialize in Javascript and Typescript technologies ( React, React Native & Node JS)
 * 🌍  I am currently based in Nairobi, Kenya
-* 🔭 At the moment I am refining my html & css skills through [internetingishard.com](https://www.internetingishard.com/).
+* 🔭 At the moment I am refining my html & css skills through [internetingishard.com](https://www.internetingishard.com/) whilst working on some React Native projects here and there 😉.
 * 👯 I look to collaborate on any interesting projects ( Fintech, ecommerce, Web3, etc ) 
 * 🤔 I would not mind help with getting into Ruby & Elixir
 * ⚡ Fun fact: Not all facts are fun 😏
